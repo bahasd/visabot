@@ -2,7 +2,7 @@ import random, os, telebot, requests, threading
 from telebot import types
 from user_agent import generate_user_agent
 
-token = "7485773633:AAFGbWARdbUbXRn7XVLUfEi-kkM1tj6F5Bs"#token
+token = "7485773633:-kkM1tj6F5Bs"#token
 SOLO = telebot.TeleBot(token)
 
 
